@@ -9,43 +9,54 @@ redirect_from:
 
 {% include base_path %}
 
+[Download full CV here](../files/cv.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, National Yang Ming Chiao Tung University (previous National Chiao Tung University)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### **Appier**
+### *Machine Learning Scientist and Data Analyst Intern*
+  * Improved User Lookalike models to produce the distinguished user score for each unique user id based on existing client site activities and deployed models online by using CI/CD pipelines, enhancing 20% improvement on AUROC compared to baseline.
+  * Extracted user behavior patterns from 1000K+ conversion funnel data and analyzed the Click-Through Rate of different campaigns using PySpark, SQL and Pandas, resulting in 120% revenue growth within 3 months.
+  * Decreased the uncertainty for outlier and lose bidding data in bidding models, saving up 30% of the trouble shooting time.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+### **Umbo CV**
+### *AI engineer Intern*
+  * Investigated research and employed model compression techniques such as structural pruning and quantization to person re-identification model on real-time streaming cameras, speeding up 20% of FPS and 3x times fewer FLOPs.
+
+### **Cinnamon AI**
+### *AI Bootcamp Summer Intern*
+  * Implemented a Seq2Seq-based model to recommend tourist attractions based on personal interest and arrange suitable trip routes deployed on Gradio to make a fast user interface.
+
+Research experience
+======
+* Institute of Information Science Academia Sinica, Research Assistant
+  * Supervisor: Prof. [Keh-Yi, Su](https://homepage.iis.sinica.edu.tw/pages/kysu/index_en.html)
+  * Utilized deep learning methods and conducted experiments to Knowledge-Guided Algebra Word Problem Solver, achieving better equation accuracy and problem accuracy on English algebraic datasets.
+  * Designed and built a two-stage neural model, which adopts the concepts of the solving strategies by humans, generating multiple expression trees explicitly and representing the reasonable solving process behind the model’s solution equation.
+
+* National Yang Ming Chiao Tung University, Research Assistant
+  * Supervisor: Prof. [Yung-Ju, Chang](https://www.armuro.info/)
+  * Leveraged deep learning fusion model to investigate users’ kill time behavior based on 1000K+ mobile phone-sensor and screenshot data, which is collected by our developed Android App.
+  * Employed a two-stage clustering approach to separate users into four groups according to the patterns of their phone-usage behaviors, and then built a fusion model for each group, yielding overall strong performance on AUROC.
+
+* National Yang Ming Chiao Tung University, Research Student
   * Supervisor: Professor Hub
-  
+  * Applied model compression using structural pruning and knowledge distillation on YOLOv4. The developed models not only fit for embedded systems (Ex: Jetson TX2) but also achieve higher FPS and mAP at the same time on the multi-spectral infrared dataset.
+  * Winner of the award: “2021 ACM ICMR Embedded Deep Learning Object Detection Model Compression Competition for Traffic in Asian Countries” -- Final Round.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: C/C++, Python (Package: PyTorch, Tensorflow, PySpark, HuggingFace), SQL, Shell Script, HTML, CSS, MATLAB, Verilog
+* DevOps & Tools: GCP, Docker, Kubernetes, Git, Jenkins, CI/CD, Airflow, System and Network Administration, Grafana, LATEX
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -55,5 +66,9 @@ Teaching
   {% endfor %}</ul>
   
 Service and leadership
+======
+* Currently signed in to 43 different slack teams
+
+Honors
 ======
 * Currently signed in to 43 different slack teams
