@@ -55,20 +55,24 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Kuei-Chun Kao, Chao-Chun Liang, Keh-Yih Su “Knowledge-Guided Algebra Word Problem Solving” ACL'23 (expect submitted)
+*	Yu-Chun Chen, Yu-Jen Lee, Kuei-Chun Kao, Jie Tsai, En-Chi Liang, Wei-Chen Chiu, Faye Shih, Yung-Ju Chang “Are You Killing Time? Predicting Smartphone Users’ Time-killing Moments via Fusion of Smartphone Sensor Data and Screenshots”, CHI'23 (minor revision & resubmit) 
+*	Yu-Chun Chen*, Kuei-Chun Kao*, Yu-Jen Lee, Faye Shih, Wei-Chen Chiu, Yung-Ju Chang “Killing-Time Detection from Smartphone Screenshots”, UbiComp'21 (* indicates equal contribution)
+
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Introduce to Natural Language Preprocessing (2022 Spring)
+  * Lecturer: [An-Zi Yen](http://nlg.csie.ntu.edu.tw/~azyen/)
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Ubicomp 2022 reviewer
+* CS Student Union (academic affair)
 
 Honors
 ======
-* Currently signed in to 43 different slack teams
+* Scholarship for Academic Excellence performance 2 times (1% of computer science department per semester)
+* NYCU GPE programming exam Ranked 1% (out of 200 students of NYCU)
+* Best People's Choice Award - Poster in Taiwan Association of Computer Human Interaction (TAICHI'21)
+* NTU-IBM Q System 2020 Q-Camp, Best Presentation Award, Sep. 2020
