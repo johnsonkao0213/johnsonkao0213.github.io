@@ -9,4 +9,5 @@ venue: "Ubicomp"
 citation: 'Yu-Chun Chen*, Kuei-Chun Kao*, Yu-Jen Lee, Faye Shih, Wei-Chen Chiu, Yung-Ju Chang (* indicates equal contribution)'
 ---
 
-[Download paper here](https://dl.acm.org/doi/10.1145/3460418.3479295)
+[Online version](https://dl.acm.org/doi/10.1145/3460418.3479295)
+[Download paper here](../files/Kill_Time_Detection__Ubicomp_2021_Poster_.pdf)
