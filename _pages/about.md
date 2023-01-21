@@ -17,7 +17,9 @@ Specifically, I am interested in the following topcis:
 - **Human-AI Communication**: *Explainable AI*, *Ubiquitous computing*
 - **Model Compression**: *Structural Pruning*, *Knowledge Distillation*
 
-```
-**Recent News**
+---
+**<font size = "5">Recent News**</font>
+
 *Jan. 2023* One paper got accpeted in CHI 2023.
-```
+
+---
