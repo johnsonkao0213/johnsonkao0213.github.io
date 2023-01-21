@@ -11,5 +11,5 @@ venue: 'CHI'
 citation: 'Yu-Chun Chen, Yu-Jen Lee, Kuei-Chun Kao, Jie Tsai, En-Chi Liang, Wei-Chen Chiu, Faye Shih, Yung-Ju Chang'
 ---
 
-Minor Revision
+To Appear
 [PrePrint](../files/chi23b-sub2102-i13.pdf)

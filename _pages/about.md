@@ -16,3 +16,8 @@ Specifically, I am interested in the following topcis:
 - **Natural Language Understanding**: *Math Word Problem Solver*, *Machine Reading (Intelligent Q&A)*, *Commonsense Reasoning*
 - **Human-AI Communication**: *Explainable AI*, *Ubiquitous computing*
 - **Model Compression**: *Structural Pruning*, *Knowledge Distillation*
+
+:::info
+**Recent News**
+*Jan. 2023* One paper got accpeted in CHI 2023.
+:::
