@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kuei-Chun Kao"
   avatar           : "0912219100.jpg"
-  bio              : "Reasearch Assistant in Academica Sinica"
-  location         : "Taiwan"
+  bio              : "Master Student in Computer Science @ UCLA"
+  location         : "Los Angeles"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.tw/citations?user=Kx8MRfUAAAAJ&hl=zh-TW&oi=sra"
-  email            :  "johnson0213.cs07@nycu.edu.tw"
+  email            : "johnson0213@g.ucla.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
