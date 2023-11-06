@@ -13,12 +13,13 @@ redirect_from:
 
 Education
 ======
+* M.S. in Computer Science, University of California, Los Angeles, advised by Prof. [Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/index.html)
 * B.S. in Computer Science, National Yang Ming Chiao Tung University (previous National Chiao Tung University)
 
 Work experience
 ======
 ## **Appier**
-### *Machine Learning Scientist and Data Analyst Intern*
+### *Machine Learning Scientist*
   * Improved User Lookalike models to produce the distinguished user score for each unique user id based on existing client site activities and deployed models online by using CI/CD pipelines, enhancing 20% improvement on AUROC compared to baseline.
   * Extracted user behavior patterns from 1000K+ conversion funnel data and analyzed the Click-Through Rate of different campaigns using PySpark, SQL and Pandas, resulting in 120% revenue growth within 3 months.
   * Decreased the uncertainty for outlier and lose bidding data in bidding models, saving up 30% of the trouble shooting time.
@@ -55,7 +56,8 @@ Skills
 
 Publications
 ======
-* Kuei-Chun Kao, Chao-Chun Liang, Keh-Yih Su “Knowledge-Guided Algebra Word Problem Solving” ACL'23 (expect submitted)
+*   Yu-Chun Chen*, Kuei-Chun Kao*, Yu-Jen Lee*, Yung-Ju Chang “Does Receiving Less Personally Relevant but Attention-demanding Notifications while ‘Killing Time’ Increase Engagement? An Exploratory Study”, CHI'24 (Under Review, * indicates equal contribution)
+*   Kuei-Chun Kao, Chao-Chun Liang, Keh-Yih Su “Knowledge-Guided Algebra Word Problem Solving” EMNLP'23 (revise and resubmit)
 *	Yu-Chun Chen, Yu-Jen Lee, Kuei-Chun Kao, Jie Tsai, En-Chi Liang, Wei-Chen Chiu, Faye Shih, Yung-Ju Chang “Are You Killing Time? Predicting Smartphone Users’ Time-killing Moments via Fusion of Smartphone Sensor Data and Screenshots”, CHI'23 (minor revision & resubmit) 
 *	Yu-Chun Chen*, Kuei-Chun Kao*, Yu-Jen Lee, Faye Shih, Wei-Chen Chiu, Yung-Ju Chang “Killing-Time Detection from Smartphone Screenshots”, UbiComp'21 (* indicates equal contribution)
 
@@ -63,10 +65,11 @@ Publications
 Teaching
 ======
 * Introduce to Natural Language Preprocessing (2022 Spring)
-  * Lecturer: [An-Zi Yen](http://nlg.csie.ntu.edu.tw/~azyen/)
+  * Lecturer: [An-Zi Yen](https://azyen0522.github.io/)
   
 Service and leadership
 ======
+* CHI 2024 reviewer
 * Ubicomp 2022 reviewer
 * CS Student Union (academic affair)
 
