@@ -2,7 +2,7 @@
 title: "Introduce to Natural Language Preprocessing (2022 Spring)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2022-NLP-teaching
 venue: "National Yang Ming Chiao Tung University, CS Department"
 date: 2022-02-14
 location: "Hsinchu, Taiwan"

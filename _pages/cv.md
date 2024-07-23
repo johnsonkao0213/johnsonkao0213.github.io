@@ -16,8 +16,12 @@ Education
 * M.S. in Computer Science, University of California, Los Angeles, advised by Prof. [Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/index.html)
 * B.S. in Computer Science, National Yang Ming Chiao Tung University (previous National Chiao Tung University)
 
-Work experience
+Work Experience
 ======
+## **Himax Imaging**
+### *AI engineer Intern*
+  * Investigated research and employed model compression techniques such as structural pruning and quantization to person re-identification model on real-time streaming cameras, speeding up 20% of FPS and 3x times fewer FLOPs.
+
 ## **Appier**
 ### *Machine Learning Scientist*
   * Improved User Lookalike models to produce the distinguished user score for each unique user id based on existing client site activities and deployed models online by using CI/CD pipelines, enhancing 20% improvement on AUROC compared to baseline.
@@ -32,8 +36,18 @@ Work experience
 ### *AI Bootcamp Summer Intern*
   * Implemented a Seq2Seq-based model to recommend tourist attractions based on personal interest and arrange suitable trip routes deployed on Gradio to make a fast user interface.
 
-Research experience
+Research Experience
 ======
+* University of California, Los Angeles, Research Assistant
+  * Supervisor: Prof. [Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/index.html)
+  * Utilized deep learning methods and conducted experiments to Knowledge-Guided Algebra Word Problem Solver, achieving better equation accuracy and problem accuracy on English algebraic datasets.
+  * Designed and built a two-stage neural model, which adopts the concepts of the solving strategies by humans, generating multiple expression trees explicitly and representing the reasonable solving process behind the model’s solution equation.
+
+* Stanford University with National Yang Ming Chiao Tung University, Research Assistant
+  * Supervisor: Prof. [Yung-Ju, Chang](https://www.armuro.info/) & [Stanford Screenomics Lab](https://screenomics.stanford.edu/)
+  * Leveraged deep learning fusion model to investigate users’ kill time behavior based on 1000K+ mobile phone-sensor and screenshot data, which is collected by our developed Android App.
+  * Employed a two-stage clustering approach to separate users into four groups according to the patterns of their phone-usage behaviors, and then built a fusion model for each group, yielding overall strong performance on AUROC.
+
 * Institute of Information Science Academia Sinica, Research Assistant
   * Supervisor: Prof. [Keh-Yi, Su](https://homepage.iis.sinica.edu.tw/pages/kysu/index_en.html)
   * Utilized deep learning methods and conducted experiments to Knowledge-Guided Algebra Word Problem Solver, achieving better equation accuracy and problem accuracy on English algebraic datasets.
@@ -56,9 +70,11 @@ Skills
 
 Publications
 ======
-*   Yu-Chun Chen*, Kuei-Chun Kao*, Yu-Jen Lee*, Yung-Ju Chang “Does Receiving Less Personally Relevant but Attention-demanding Notifications while ‘Killing Time’ Increase Engagement? An Exploratory Study”, CHI'24 (Under Review, * indicates equal contribution)
-*   Kuei-Chun Kao, Chao-Chun Liang, Keh-Yih Su “Knowledge-Guided Algebra Word Problem Solving” EMNLP'23 (revise and resubmit)
-*	Yu-Chun Chen, Yu-Jen Lee, Kuei-Chun Kao, Jie Tsai, En-Chi Liang, Wei-Chen Chiu, Faye Shih, Yung-Ju Chang “Are You Killing Time? Predicting Smartphone Users’ Time-killing Moments via Fusion of Smartphone Sensor Data and Screenshots”, CHI'23 (minor revision & resubmit) 
+* Yung-Ju Chang*, Yu-Chun Chen*, Kuei-Chun Kao*, Yu-Jen Lee*, Mu-Jung Cho, Yikun Chi, Thomas N. Robinson, Byron Reeves, Nilam Ram “Assessing the Reliability of Vision Language Models for Inferring Phone Activity from Smartphone Screenshots: A Preliminary Case Study with VLM”, (preprint, * indicates equal contribution)
+* Kuei-Chun Kao, Ruochen Wang, Cho-Jui Hsieh “Solving for X and Beyond: Can Large Language Models Solve Complex Math Problems with More-Than-Two Unknowns?”, (preprint)
+* Yu-Chun Chen*, Kuei-Chun Kao*, Yu-Jen Lee*, Yung-Ju Chang “Does Receiving Less Personally Relevant but Attention-demanding Notifications while ‘Killing Time’ Increase Engagement? An Exploratory Study”, (preprint, * indicates equal contribution)
+* Kuei-Chun Kao, Chao-Chun Liang, Keh-Yih Su “Knowledge-Guided Algebra Word Problem Solving” (preprint)
+*	Yu-Chun Chen, Yu-Jen Lee, Kuei-Chun Kao, Jie Tsai, En-Chi Liang, Wei-Chen Chiu, Faye Shih, Yung-Ju Chang “Are You Killing Time? Predicting Smartphone Users’ Time-killing Moments via Fusion of Smartphone Sensor Data and Screenshots”, CHI'23 
 *	Yu-Chun Chen*, Kuei-Chun Kao*, Yu-Jen Lee, Faye Shih, Wei-Chen Chiu, Yung-Ju Chang “Killing-Time Detection from Smartphone Screenshots”, UbiComp'21 (* indicates equal contribution)
 
   
