@@ -9,7 +9,7 @@ venue: 'ARR'
 citation: 'Kuei-Chun Kao, Ruochen Wang, Cho-Jui Hsieh'
 ---
 
-Preprint
-[Project Page](https://johnsonkao0213.github.io/Formulate_and_Solve/)
-[Arxiv](https://arxiv.org/pdf/2407.05134)
-[Code](https://github.com/johnsonkao0213/Formulate_and_Solve)
+- Preprint
+- [Project Page](https://johnsonkao0213.github.io/Formulate_and_Solve/)
+- [Arxiv](https://arxiv.org/pdf/2407.05134)
+- [Code](https://github.com/johnsonkao0213/Formulate_and_Solve)

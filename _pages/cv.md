@@ -20,7 +20,7 @@ Work Experience
 ======
 ## **Himax Imaging**
 ### *AI engineer Intern*
-  * Investigated research and employed model compression techniques such as structural pruning and quantization to person re-identification model on real-time streaming cameras, speeding up 20% of FPS and 3x times fewer FLOPs.
+  * Investigated research and employed model compression techniques such as structural pruning and quantization to a unified face detection, head pose estimation, and face emotion recognition model on Himax AI chips running on Windows notebook, speeding up 20% of FPS and 3x times fewer FLOPs.
 
 ## **Appier**
 ### *Machine Learning Scientist*
@@ -40,13 +40,13 @@ Research Experience
 ======
 * University of California, Los Angeles, Research Assistant
   * Supervisor: Prof. [Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/index.html)
-  * Utilized deep learning methods and conducted experiments to Knowledge-Guided Algebra Word Problem Solver, achieving better equation accuracy and problem accuracy on English algebraic datasets.
-  * Designed and built a two-stage neural model, which adopts the concepts of the solving strategies by humans, generating multiple expression trees explicitly and representing the reasonable solving process behind the model’s solution equation.
+  * Proposed an auto-prompting approach that combines LLMs and external symbolic solver to solve Algebra Word Problem by utilizing different prompting strategies, achieving 10% improvement in answer accuracy on both English and Chinese datasets.
+  * Curated a new and larger algebraic dataset with prompt optimization which contains multiple variables questions to evaluate our proposed reasoning approaches on solving more challengeable Algebra Word Problem.
 
 * Stanford University with National Yang Ming Chiao Tung University, Research Assistant
   * Supervisor: Prof. [Yung-Ju, Chang](https://www.armuro.info/) & [Stanford Screenomics Lab](https://screenomics.stanford.edu/)
-  * Leveraged deep learning fusion model to investigate users’ kill time behavior based on 1000K+ mobile phone-sensor and screenshot data, which is collected by our developed Android App.
-  * Employed a two-stage clustering approach to separate users into four groups according to the patterns of their phone-usage behaviors, and then built a fusion model for each group, yielding overall strong performance on AUROC.
+  * Investigated the use of Vision Language Models (VLMs), particularly GPT-4V, in the analysis of smartphone user activities from screenshots, offering an alternative to traditional app usage data analysis limitations, providing highly convinced reliability score compared to human coders.
+  * Conducted a two-week user study via users’ self-reported experience as evidence to support "killing-time" periods are opportune for user engagement with notifications that demand user attention and engagement.
 
 * Institute of Information Science Academia Sinica, Research Assistant
   * Supervisor: Prof. [Keh-Yi, Su](https://homepage.iis.sinica.edu.tw/pages/kysu/index_en.html)

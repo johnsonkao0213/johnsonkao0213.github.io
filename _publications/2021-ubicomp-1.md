@@ -9,6 +9,6 @@ venue: "Ubicomp"
 citation: 'Yu-Chun Chen*, Kuei-Chun Kao*, Yu-Jen Lee, Faye Shih, Wei-Chen Chiu, Yung-Ju Chang (* indicates equal contribution)'
 ---
 
-[Online version](https://dl.acm.org/doi/10.1145/3460418.3479295)
-[Code](https://github.com/johnsonkao0213/Killtime_Detection_Android_App)
-[Download paper here](../files/Kill_Time_Detection__Ubicomp_2021_Poster_.pdf)
+- [Online version](https://dl.acm.org/doi/10.1145/3460418.3479295)
+- [Code](https://github.com/johnsonkao0213/Killtime_Detection_Android_App)
+- [Download paper here](../files/Kill_Time_Detection__Ubicomp_2021_Poster_.pdf)
