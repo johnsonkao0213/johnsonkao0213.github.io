@@ -3,8 +3,8 @@ title: "Solving for X and Beyond: Can Large Language Models Solve Complex Math P
 collection: publications
 permalink: /publication/2024-beyondx-1
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2024-06-01
-venue: 'ARR'
+date: 2024-11-01
+venue: 'EMNLP'
 #paperurl: 'under submission'
 citation: 'Kuei-Chun Kao, Ruochen Wang, Cho-Jui Hsieh'
 ---

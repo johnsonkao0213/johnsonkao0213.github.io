@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Kuei-Chun Kao"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -21,7 +21,7 @@ Specifically, I am interested in the following topcis:
 
 ---
 **Recent News**
-
+- *Sept, 2024* Our paper [BeyondX](https://arxiv.org/pdf/2407.05134) is accepted in EMNLP 2024.
 - *June, 2024* Publish an Arxiv Paper about LLM reasoing, please check out [link](https://johnsonkao0213.github.io/Formulate_and_Solve/).
 - *Sep. 2023* Start Master at UCLA.
 - *Jan. 2023* One paper got accpeted in CHI 2023.
