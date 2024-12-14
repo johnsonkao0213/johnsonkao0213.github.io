@@ -28,10 +28,6 @@ Work Experience
   * Extracted user behavior patterns from 1000K+ conversion funnel data and analyzed the Click-Through Rate of different campaigns using PySpark, SQL and Pandas, resulting in 120% revenue growth within 3 months.
   * Decreased the uncertainty for outlier and lose bidding data in bidding models, saving up 30% of the trouble shooting time.
 
-## **Umbo CV**
-### *AI engineer Intern*
-  * Investigated research and employed model compression techniques such as structural pruning and quantization to person re-identification model on real-time streaming cameras, speeding up 20% of FPS and 3x times fewer FLOPs.
-
 ## **Cinnamon AI**
 ### *AI Bootcamp Summer Intern*
   * Implemented a Seq2Seq-based model to recommend tourist attractions based on personal interest and arrange suitable trip routes deployed on Gradio to make a fast user interface.
@@ -70,10 +66,12 @@ Skills
 
 Publications
 ======
-* Yung-Ju Chang*, Yu-Chun Chen*, Kuei-Chun Kao*, Yu-Jen Lee*, Mu-Jung Cho, Yikun Chi, Thomas N. Robinson, Byron Reeves, Nilam Ram “Assessing the Reliability of Vision Language Models for Inferring Phone Activity from Smartphone Screenshots: A Preliminary Case Study with VLM”, (preprint, * indicates equal contribution)
-* Kuei-Chun Kao, Ruochen Wang, Cho-Jui Hsieh “Solving for X and Beyond: Can Large Language Models Solve Complex Math Problems with More-Than-Two Unknowns?”, (preprint)
-* Yu-Chun Chen*, Kuei-Chun Kao*, Yu-Jen Lee*, Yung-Ju Chang “Does Receiving Less Personally Relevant but Attention-demanding Notifications while ‘Killing Time’ Increase Engagement? An Exploratory Study”, (preprint, * indicates equal contribution)
-* Kuei-Chun Kao, Chao-Chun Liang, Keh-Yih Su “Knowledge-Guided Algebra Word Problem Solving” (preprint)
+* Kuei-Chun Kao, Ruochen Wang, Cho-Jui Hsieh “Can MLLMs really learn implicit task vectors and knowledge under multimodal in-context learning?” 2024
+* Kuei-Chun Kao, Ethan Hsu, Ruochen Wang, Cho-Jui Hsieh “Enhancing Multi-Image Understanding in MLLMs through Question-Aware Image Captioning” 2024
+* Kuei-Chun Kao, Ruochen Wang, Cho-Jui Hsieh “Solving for X and Beyond: Can Large Language Models Solve Complex Math Problems with More-Than-Two Unknowns?”, EMNLP'24
+* Yung-Ju Chang*, Yu-Chun Chen*, Kuei-Chun Kao*, Yu-Jen Lee*, Mu-Jung Cho, Yikun Chi, Thomas N. Robinson, Byron Reeves, Nilam Ram “When Killing-Time Periods Don't Boost Notification Engagement: Insights from a Multimodal Large Language Model Analysis of Smartphone Screen Activity”, CHI'25(preprint, * indicates equal contribution)
+* Yu-Chun Chen*, Kuei-Chun Kao*, Yu-Jen Lee*, Yung-Ju Chang “Does Receiving Less Personally Relevant but Attention-demanding Notifications while ‘Killing Time’ Increase Engagement? An Exploratory Study”, CHI'25 (preprint, * indicates equal contribution)
+* Kuei-Chun Kao, Chao-Chun Liang, Keh-Yih Su “Knowledge-Guided Algebra Word Problem Solving”, 2023 (preprint)
 *	Yu-Chun Chen, Yu-Jen Lee, Kuei-Chun Kao, Jie Tsai, En-Chi Liang, Wei-Chen Chiu, Faye Shih, Yung-Ju Chang “Are You Killing Time? Predicting Smartphone Users’ Time-killing Moments via Fusion of Smartphone Sensor Data and Screenshots”, CHI'23 
 *	Yu-Chun Chen*, Kuei-Chun Kao*, Yu-Jen Lee, Faye Shih, Wei-Chen Chiu, Yung-Ju Chang “Killing-Time Detection from Smartphone Screenshots”, UbiComp'21 (* indicates equal contribution)
 

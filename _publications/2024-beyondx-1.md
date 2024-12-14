@@ -9,7 +9,7 @@ venue: 'EMNLP'
 citation: 'Kuei-Chun Kao, Ruochen Wang, Cho-Jui Hsieh'
 ---
 
-- Preprint
+- [EMNLP](https://aclanthology.org/2024.findings-emnlp.980/)
 - [Project Page](https://johnsonkao0213.github.io/Formulate_and_Solve/)
 - [Arxiv](https://arxiv.org/pdf/2407.05134)
 - [Code](https://github.com/johnsonkao0213/Formulate_and_Solve)
