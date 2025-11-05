@@ -13,11 +13,16 @@ redirect_from:
 
 Education
 ======
+* PhD. in Computer Science, University of California, Los Angeles, advised by Prof. [Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/index.html)
 * M.S. in Computer Science, University of California, Los Angeles, advised by Prof. [Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/index.html)
 * B.S. in Computer Science, National Yang Ming Chiao Tung University (previous National Chiao Tung University)
 
 Work Experience
 ======
+## **Bytedance**
+### *Research Scientist Intern*
+  * Fine-tuned (M)LLMs to do the review ranking
+
 ## **Himax Imaging**
 ### *AI engineer Intern*
   * Investigated research and employed model compression techniques such as structural pruning and quantization to a unified face detection, head pose estimation, and face emotion recognition model on Himax AI chips running on Windows notebook, speeding up 20% of FPS and 3x times fewer FLOPs.
@@ -66,8 +71,8 @@ Skills
 
 Publications
 ======
-* Kuei-Chun Kao, Ruochen Wang, Cho-Jui Hsieh “Can MLLMs really learn implicit task vectors and knowledge under multimodal in-context learning?” 2024
-* Kuei-Chun Kao, Ethan Hsu, Ruochen Wang, Cho-Jui Hsieh “Enhancing Multi-Image Understanding in MLLMs through Question-Aware Image Captioning” 2024
+* Kuei-Chun Kao, Ruochen Wang, Cho-Jui Hsieh “Can MLLMs really learn implicit task vectors and knowledge under multimodal in-context learning?” 2025
+* Kuei-Chun Kao, Hsu Tzu-Yin, Yunqi Hong, Ruochen Wang, Cho-Jui Hsieh “QG-CoC: Question-Guided Chain-of-Captions for Large Multimodal Models” EMNLP 2025
 * Kuei-Chun Kao, Ruochen Wang, Cho-Jui Hsieh “Solving for X and Beyond: Can Large Language Models Solve Complex Math Problems with More-Than-Two Unknowns?”, EMNLP'24
 * Yung-Ju Chang*, Yu-Chun Chen*, Kuei-Chun Kao*, Yu-Jen Lee*, Mu-Jung Cho, Yikun Chi, Thomas N. Robinson, Byron Reeves, Nilam Ram “When Killing-Time Periods Don't Boost Notification Engagement: Insights from a Multimodal Large Language Model Analysis of Smartphone Screen Activity”, CHI'25(preprint, * indicates equal contribution)
 * Yu-Chun Chen*, Kuei-Chun Kao*, Yu-Jen Lee*, Yung-Ju Chang “Does Receiving Less Personally Relevant but Attention-demanding Notifications while ‘Killing Time’ Increase Engagement? An Exploratory Study”, CHI'25 (preprint, * indicates equal contribution)
@@ -83,6 +88,7 @@ Teaching
   
 Service and leadership
 ======
+* ARR, NeurIPS 2025 reviewer
 * CHI 2024 reviewer
 * Ubicomp 2022 reviewer
 * CS Student Union (academic affair)
