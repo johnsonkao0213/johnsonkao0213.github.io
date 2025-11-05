@@ -23,7 +23,7 @@ Specifically, I am interested in the following topcis:
 **Recent News**
 - *Nov, 2025*: Our paper about T2I reward hacking is under review in CVPR 2025.
 - *Oct, 2025*: Our paper about Biomedical Auto Prompt Optimization is under review in Nature Intelligence.
-- *Aug, 2025*: Our paper [QG-CoC](https://arxiv.org/pdf/2407.05134) is accepted in EMNLP 2025.
+- *Aug, 2025*: Our paper [QG-CoC](https://aclanthology.org/2025.emnlp-main.1445/) is accepted in EMNLP 2025.
 - *April, 2025*: One paper got accepted in IJHCS 2025.
 - *Sept, 2024*: Our paper [BeyondX](https://arxiv.org/pdf/2407.05134) is accepted in EMNLP 2024.
 - *June, 2024*: Publish an Arxiv Paper about LLM reasoing, please check out [link](https://johnsonkao0213.github.io/Formulate_and_Solve/).
