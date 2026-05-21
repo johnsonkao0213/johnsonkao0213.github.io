@@ -21,7 +21,7 @@ Specifically, I am interested in the following topcis:
 
 ---
 **Recent News**
-- *May, 2026*: Our paper about [AutoRubric-T2I for robust reward model](https://arxiv.org/pdf/2601.03468) is out, please check out [link](https://johnsonkao0213.github.io/AutoRubric-T2I/).
+- *May, 2026*: Our paper about [AutoRubric-T2I for robust reward model](https://arxiv.org/pdf/2605.17602) is out, please check out [link](https://johnsonkao0213.github.io/AutoRubric-T2I/).
 - *Feb, 2026*: Our paper about [Understanding T2I reward hacking](https://arxiv.org/pdf/2601.03468) is accpeted in CVPR 2026.
 - *Feb, 2026*: Our paper about [Biomedical Auto Prompt Optimization](https://arxiv.org/pdf/2511.12008) is accepted in Communications Medicine under Nature.
 - *Aug, 2025*: Our paper [QG-CoC](https://aclanthology.org/2025.emnlp-main.1445/) is accepted in EMNLP 2025.
